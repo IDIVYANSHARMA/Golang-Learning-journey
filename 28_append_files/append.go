@@ -22,5 +22,6 @@ func main() {
 
 	// Append some text to the file
 	file.WriteString("\n Welcome to the Go World!") // WriteString appends the specified string to the file
+	file.WriteString("\n I am enjoying Learning Go!")
 	fmt.Println("Text appended successfully!")
 }
