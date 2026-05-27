@@ -1,0 +1,2 @@
+Hello Golang Engineer! 
+this is a buffered file writing example.
